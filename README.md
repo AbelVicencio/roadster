@@ -12,6 +12,13 @@
 
 </div>
 
+> [!WARNING]
+> **Esto es solo una prueba de concepto.** Es un experimento personal y sin ánimo de lucro para explorar física de vehículos (propulsores y succión) en Godot. **No pretende ser un producto, un juego terminado ni nada más que eso.**
+>
+> - Es un prototipo: puede tener errores, un balance de dificultad por pulir y funciones incompletas. No se ofrece soporte ni garantía de que reciba actualizaciones.
+> - **No está afiliado, patrocinado ni respaldado por Tesla, Inc., SpaceX ni ninguna otra empresa.** Cualquier parecido con productos reales es una referencia de fan; los nombres y marcas pertenecen a sus dueños.
+> - La música y el arte de portada pertenecen a sus titulares y se incluyen solo a modo de demostración (ver [Aviso legal](#aviso-legal)).
+
 Un deportivo con **propulsores de gas frío** y un **sistema de succión** capaz de pegarlo a rampas, paredes y techos. Lo difícil es el control: no hay estabilización automática, el aire comprimido se gasta rápido y se recarga despacio. Inspirado en la demo del Roadster de octubre de 2026.
 
 ![Gameplay](docs/gameplay.png)
@@ -117,7 +124,7 @@ Los ajustes del editor están en `.editorconfig` (tabuladores en `.gd`, LF, UTF-
 
 ## Aviso legal
 
-Proyecto de fans sin ánimo de lucro, **no afiliado, patrocinado ni respaldado por Tesla, Inc. ni SpaceX**. *Tesla*, *Roadster* y otras marcas pertenecen a sus respectivos dueños. Desarrollado con [Godot Engine](https://godotengine.org) (MIT).
+Prueba de concepto sin ánimo de lucro y sin otra pretensión que experimentar y aprender. Proyecto de fans, **no afiliado, patrocinado ni respaldado por Tesla, Inc. ni SpaceX**. *Tesla*, *Roadster* y otras marcas pertenecen a sus respectivos dueños. Desarrollado con [Godot Engine](https://godotengine.org) (MIT).
 
 - **Código:** licencia [MIT](LICENSE).
 - **Música** (`assets/audio/`) y **arte de portada** (`assets/cover/`): no están cubiertos por la licencia MIT y pertenecen a sus titulares; se incluyen para la demostración. Si eres titular de alguno y quieres que se retire, abre un *issue*.
