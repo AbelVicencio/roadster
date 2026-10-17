@@ -1,0 +1,49 @@
+# --- Godot 4 ---
+.godot/
+.import/
+*.translation
+# Archivos de usuario del editor
+.mono/
+data_*/
+mono_crash.*.json
+
+# --- Compilaciones y ejecutables (se publican en GitHub Releases, no en git) ---
+build/
+export/
+*.exe
+*.pck
+*.zip
+*.apk
+*.aab
+*.dmg
+*.app
+*.x86_64
+*.msi
+
+# --- Material de referencia / de terceros que no se publica ---
+_reference/
+
+# --- Secretos y credenciales ---
+.env
+.env.*
+*.key
+*.pem
+*.keystore
+*.jks
+export_credentials.cfg
+
+# --- Herramientas, IDE y SO ---
+.vscode/
+.idea/
+*.code-workspace
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.bak
+~$*
